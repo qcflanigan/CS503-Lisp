@@ -1,6 +1,8 @@
 ## Project Description:
 
-    This project reflects a complete interpreter for the Lisp programming language. The interpreter is written in the C# programming language and closely follows Robert Nystrom's Java implementation of the Lox programming language in his textbook 'Crafting Interpreters'. The interpreter allows for full implementation of any Lisp program, including support for variable declaration, function declarations, and various common Lisp functions
+    This project reflects a complete interpreter for the Lisp programming language. 
+    The interpreter is written in the C# programming language and closely follows Robert Nystrom's Java implementation of the Lox programming language in his textbook 'Crafting Interpreters'. 
+    The interpreter allows for full implementation of any Lisp program, including support for variable declaration, function declarations, and various common Lisp functions
 
 ## Usage:
 
